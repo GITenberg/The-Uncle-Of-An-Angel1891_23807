@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3196
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23807#The-Uncle-Of-An-Angel1891
 gutenberg_issued: '2007-12-10'
 gutenberg_type: Text
 identifiers:
